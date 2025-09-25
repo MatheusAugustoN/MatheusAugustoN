@@ -6,11 +6,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusAugustoN&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAugustoN&layout=compact&theme=radical)  
-
----
 
 ## 🚀 Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
