@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação — UFV Campus Florestal (8º semestre)  
 ⚡ Técnico em Automação Industrial — IFMG Betim  
-💻 Interesse em **Desenvolvimento de Software, Cloud Computing, Automação e Ciência de Dados**  
+💻 Interesse em **Desenvolvimento de Software, Cloud Computing e IA**  
 
 ---
 
