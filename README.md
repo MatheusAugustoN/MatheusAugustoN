@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Matheus Augusto!  
 
-🎓 Estudante de Ciência da Computação — UFV Campus Florestal (6º semestre)  
+🎓 Estudante de Ciência da Computação — UFV Campus Florestal (8º semestre)  
 ⚡ Técnico em Automação Industrial — IFMG Betim  
 💻 Interesse em **Desenvolvimento de Software, Cloud Computing, Automação e Ciência de Dados**  
 
